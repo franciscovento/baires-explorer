@@ -7,13 +7,13 @@ import '@fontsource/roboto/700.css';
 import './styles/globals.css';
 import { createTheme, CssBaseline } from '@mui/material';
 import DetailPage from './views/detail.tsx';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from 'react-router-dom';
 import ErrorPage from './views/error-page.tsx';
 import { ThemeProvider } from '@emotion/react';
 import Root from './views/Root.tsx';
 import { PlacesProvider } from './context/PlacesContext.tsx';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <Root />,
