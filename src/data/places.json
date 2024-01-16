@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Casa Rosada",
+    "description": "La Casa Rosada es la sede del Poder Ejecutivo de la República Argentina.​ Está ubicada en el barrio de Monserrat de la Ciudad Autónoma de Buenos Aires, frente a la histórica Plaza de Mayo.",
+    "image": "https://www.lavoz.com.ar/resizer/mneOcxCT-uXDKcUQIDGDVSJr5Yw=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/FGC2LKA3EJCKTE7GJXIIUGD3I4.jpg",
+    "isFavorite": false,
+    "visited": null
+  },
+  {
+    "id": 2,
+    "name": "Obelisco",
+    "description": "El Obelisco de Buenos Aires es un monumento histórico ubicado en la intersección de las avenidas Corrientes y 9 de Julio, en el barrio de San Nicolás, en la Ciudad Autónoma de Buenos Aires, Argentina.",
+    "image": "https://www.sacyr.com/documents/121856245/123499222/IMG+0+Obelisco+Buenos+Aires.jpg/63faafec-5362-632d-f4ed-e39f74ebc448?t=1697614684017",
+    "isFavorite": false,
+    "visited": null
+  },
+  {
+    "id": 3,
+    "name": "Puerto Madero",
+    "description": "Puerto Madero es un barrio ubicado al este de la ciudad de Buenos Aires, capital de la República Argentina, frente a la histórica ciudad de Colonia del Sacramento, Uruguay.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29.jpg",
+    "isFavorite": false,
+    "visited": null
+  }
+]
