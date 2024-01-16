@@ -1,5 +1,5 @@
 import { Box, Button, Container, styled } from '@mui/material';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 const DetailPage = () => {
   const totalImages = 3;
